@@ -1,10 +1,10 @@
-###Для запуска скрипта требуются Python библиотеки:
+### Для запуска скрипта требуются Python библиотеки:
 - pandas
 - bs4
 - selenium
 - lxml
 
-###Для работы с вебдрайвером selenium (установлен для *Firefox*) требуется:
+### Для работы с вебдрайвером selenium (установлен для *Firefox*) требуется:
 - установить драйвер [geckodriver](https://github.com/mozilla/geckodriver/releases) для своей системы и прописать путь к нему в PATH
 
 
